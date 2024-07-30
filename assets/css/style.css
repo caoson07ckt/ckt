@@ -1047,8 +1047,8 @@ Hero Area Style
   position: relative;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: bottom;
-  background-image: url(../images/truong.jpg);
+  background-position: center;
+  background-image: url(../images/truong-2.jpg);
   padding-top: 175px;
   padding-bottom: 205px;
 }
